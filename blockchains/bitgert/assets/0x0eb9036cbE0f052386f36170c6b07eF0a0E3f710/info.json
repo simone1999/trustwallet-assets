@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Brise",
+    "symbol": "WBRISE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710",
+    "status": "active",
+    "id": "0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710"
+}

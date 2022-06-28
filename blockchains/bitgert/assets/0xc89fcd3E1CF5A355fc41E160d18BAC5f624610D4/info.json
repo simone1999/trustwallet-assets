@@ -1,0 +1,11 @@
+{
+    "name": "Whale Maker Fund",
+    "symbol": "WMF",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xc89fcd3E1CF5A355fc41E160d18BAC5f624610D4",
+    "status": "active",
+    "id": "0xc89fcd3E1CF5A355fc41E160d18BAC5f624610D4"
+}

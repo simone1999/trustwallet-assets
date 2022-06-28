@@ -1,0 +1,11 @@
+{
+    "name": "Brise Paradise",
+    "symbol": "PRDS",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x31226B28add9062c5064a9Bd35eA155F323C6ca6",
+    "status": "active",
+    "id": "0x31226B28add9062c5064a9Bd35eA155F323C6ca6"
+}

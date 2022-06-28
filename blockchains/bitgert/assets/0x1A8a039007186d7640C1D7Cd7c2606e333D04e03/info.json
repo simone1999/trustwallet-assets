@@ -1,0 +1,11 @@
+{
+    "name": "BitsXT",
+    "symbol": "BTXT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x1A8a039007186d7640C1D7Cd7c2606e333D04e03",
+    "status": "active",
+    "id": "0x1A8a039007186d7640C1D7Cd7c2606e333D04e03"
+}

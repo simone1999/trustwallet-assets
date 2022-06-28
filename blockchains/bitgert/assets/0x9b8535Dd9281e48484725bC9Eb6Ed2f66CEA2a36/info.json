@@ -1,0 +1,11 @@
+{
+    "name": "BriseZilla",
+    "symbol": "BRZILLA",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36",
+    "status": "active",
+    "id": "0x9b8535Dd9281e48484725bC9Eb6Ed2f66CEA2a36"
+}

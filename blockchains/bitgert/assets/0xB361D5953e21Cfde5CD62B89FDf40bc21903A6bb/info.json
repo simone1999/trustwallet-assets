@@ -1,0 +1,11 @@
+{
+    "name": "YOGO Token",
+    "symbol": "YOGO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb",
+    "status": "active",
+    "id": "0xB361D5953e21Cfde5CD62B89FDf40bc21903A6bb"
+}

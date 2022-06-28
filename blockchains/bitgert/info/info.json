@@ -1,0 +1,21 @@
+{
+    "name": "Bitgert",
+    "website": "https://bitgert.com/",
+    "description": "Zero gas fee 100k tps Ethereum compatible Blockchain",
+    "explorer": "https://brisescan.com/",
+    "research": "https://research.binance.com/en/projects/ethereum",
+    "symbol": "BRISE",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitgertbrise"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bitgertbrise"
+        }
+    ]
+}

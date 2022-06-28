@@ -1,0 +1,11 @@
+{
+    "name": "Alpha Trades",
+    "symbol": "WOLF",
+    "type": "ERC20",
+    "decimals": 19,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x4Fb3DBF9111169ff60fFB8a7be1c6Fd3D4E417bC",
+    "status": "active",
+    "id": "0x4Fb3DBF9111169ff60fFB8a7be1c6Fd3D4E417bC"
+}

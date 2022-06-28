@@ -1,0 +1,11 @@
+{
+    "name": "Young Parrot",
+    "symbol": "YPC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x11203a00a9134Db8586381C4B2fca0816476b3FD",
+    "status": "active",
+    "id": "0x11203a00a9134Db8586381C4B2fca0816476b3FD"
+}

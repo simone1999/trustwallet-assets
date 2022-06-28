@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7",
+    "status": "active",
+    "id": "0xcf2DF9377A4e3C10e9EA29fDB8879d74C27FCDE7"
+}

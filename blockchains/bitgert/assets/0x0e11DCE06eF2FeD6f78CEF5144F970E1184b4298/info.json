@@ -1,0 +1,11 @@
+{
+    "name": "Sphynx BRISE",
+    "symbol": "SPHYNX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298",
+    "status": "active",
+    "id": "0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298"
+}

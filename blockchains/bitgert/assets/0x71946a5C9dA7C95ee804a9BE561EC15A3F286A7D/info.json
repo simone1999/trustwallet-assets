@@ -1,0 +1,11 @@
+{
+    "name": "Brisepad",
+    "symbol": "BPAD",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D",
+    "status": "active",
+    "id": "0x71946a5C9dA7C95ee804a9BE561EC15A3F286A7D"
+}

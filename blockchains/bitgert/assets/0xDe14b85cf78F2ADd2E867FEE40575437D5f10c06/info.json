@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06",
+    "status": "active",
+    "id": "0xDe14b85cf78F2ADd2E867FEE40575437D5f10c06"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "IceCream",
+    "symbol": "ICE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D",
+    "status": "active",
+    "id": "0xB999Ea90607a826A3E6E6646B404c3C7d11fa39D"
+}

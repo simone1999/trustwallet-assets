@@ -1,0 +1,11 @@
+{
+    "name": "Vefi Ecosystem Token",
+    "symbol": "VEF",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2",
+    "status": "active",
+    "id": "0xD6447d2fA919811c41a064bDbdaB1E281F8de9B2"
+}

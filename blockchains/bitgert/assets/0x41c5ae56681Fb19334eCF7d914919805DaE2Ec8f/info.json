@@ -1,0 +1,11 @@
+{
+    "name": "BROGE",
+    "symbol": "BROGE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x41c5ae56681Fb19334eCF7d914919805DaE2Ec8f",
+    "status": "active",
+    "id": "0x41c5ae56681Fb19334eCF7d914919805DaE2Ec8f"
+}

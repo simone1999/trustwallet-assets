@@ -1,0 +1,11 @@
+{
+    "name": "EVO",
+    "symbol": "EVO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x267Ae4bA9CE5ef3c87629812596b0D89EcBD81dD",
+    "status": "active",
+    "id": "0x267Ae4bA9CE5ef3c87629812596b0D89EcBD81dD"
+}
