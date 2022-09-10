@@ -1,0 +1,11 @@
+{
+    "name": "Dai",
+    "symbol": "DAIi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x71Ef0A490E53Cc177F640169b0347Be4d0f23cc9",
+    "status": "active",
+    "id": "0x71Ef0A490E53Cc177F640169b0347Be4d0f23cc9"
+}

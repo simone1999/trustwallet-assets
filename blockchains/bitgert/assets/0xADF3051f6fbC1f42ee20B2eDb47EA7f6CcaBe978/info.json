@@ -1,0 +1,11 @@
+{
+    "name": "Shiba Inu",
+    "symbol": "SHIBi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xADF3051f6fbC1f42ee20B2eDb47EA7f6CcaBe978",
+    "status": "active",
+    "id": "0xADF3051f6fbC1f42ee20B2eDb47EA7f6CcaBe978"
+}

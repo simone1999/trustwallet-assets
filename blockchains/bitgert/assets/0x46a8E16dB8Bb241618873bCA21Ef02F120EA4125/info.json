@@ -1,0 +1,11 @@
+{
+    "name": "Dogecoin",
+    "symbol": "DOGEi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x46a8E16dB8Bb241618873bCA21Ef02F120EA4125",
+    "status": "active",
+    "id": "0x46a8E16dB8Bb241618873bCA21Ef02F120EA4125"
+}

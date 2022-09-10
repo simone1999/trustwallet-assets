@@ -1,0 +1,11 @@
+{
+    "name": "Ether",
+    "symbol": "ETHi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xeA61Dc96F105469522d39cBF7bD59b42393678F7",
+    "status": "active",
+    "id": "0xeA61Dc96F105469522d39cBF7bD59b42393678F7"
+}

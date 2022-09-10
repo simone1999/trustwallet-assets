@@ -1,0 +1,11 @@
+{
+    "name": "BNB",
+    "symbol": "BNBi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x74446a7418BFbFCDe3F1f6bCaFFA097d050a6dD8",
+    "status": "active",
+    "id": "0x74446a7418BFbFCDe3F1f6bCaFFA097d050a6dD8"
+}
