@@ -1,0 +1,11 @@
+{
+    "name": "BUSD",
+    "symbol": "BUSDi",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xd0CE781960c6356A7175988751bfC8d7cd28EA60",
+    "status": "active",
+    "id": "0xd0CE781960c6356A7175988751bfC8d7cd28EA60"
+}
