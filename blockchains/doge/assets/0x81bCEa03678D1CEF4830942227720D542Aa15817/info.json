@@ -1,0 +1,11 @@
+{
+    "name": "IceCream",
+    "symbol": "ICE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0x81bCEa03678D1CEF4830942227720D542Aa15817",
+    "status": "active",
+    "id": "0x81bCEa03678D1CEF4830942227720D542Aa15817"
+}

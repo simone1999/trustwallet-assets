@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xD2683b22287E63D22928CBe4514003a92507f474",
+    "status": "active",
+    "id": "0xD2683b22287E63D22928CBe4514003a92507f474"
+}

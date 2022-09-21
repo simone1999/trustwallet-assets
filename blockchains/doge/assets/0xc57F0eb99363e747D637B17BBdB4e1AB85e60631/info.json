@@ -1,0 +1,11 @@
+{
+    "name": "Dai",
+    "symbol": "DAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631",
+    "status": "active",
+    "id": "0xc57F0eb99363e747D637B17BBdB4e1AB85e60631"
+}

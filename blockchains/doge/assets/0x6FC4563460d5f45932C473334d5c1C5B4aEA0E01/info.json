@@ -1,0 +1,11 @@
+{
+    "name": "YodeDEX Token",
+    "symbol": "YODE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0x0eb9036cbE0f052386f36170c6b07eF0a0E3f710",
+    "status": "active",
+    "id": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01"
+}

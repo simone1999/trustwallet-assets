@@ -1,0 +1,11 @@
+{
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0x905caAE1627856529BEd7b9572F02af5e5Ac6cA7",
+    "status": "active",
+    "id": "0x905caAE1627856529BEd7b9572F02af5e5Ac6cA7"
+}

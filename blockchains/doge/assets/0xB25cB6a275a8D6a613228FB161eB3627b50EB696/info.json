@@ -1,0 +1,11 @@
+{
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xB25cB6a275a8D6a613228FB161eB3627b50EB696",
+    "status": "active",
+    "id": "0xB25cB6a275a8D6a613228FB161eB3627b50EB696"
+}

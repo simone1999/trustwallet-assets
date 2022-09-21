@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Doge",
+    "symbol": "WDOGE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101",
+    "status": "active",
+    "id": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101"
+}

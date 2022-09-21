@@ -1,0 +1,11 @@
+{
+    "name": "Dogechain Token",
+    "symbol": "DC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+    "status": "active",
+    "id": "0x7B4328c127B85369D9f82ca0503B000D09CF9180"
+}

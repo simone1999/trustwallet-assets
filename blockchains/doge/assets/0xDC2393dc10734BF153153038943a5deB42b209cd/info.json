@@ -1,0 +1,11 @@
+{
+    "name": "Ether",
+    "symbol": "ETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xDC2393dc10734BF153153038943a5deB42b209cd",
+    "status": "active",
+    "id": "0xDC2393dc10734BF153153038943a5deB42b209cd"
+}

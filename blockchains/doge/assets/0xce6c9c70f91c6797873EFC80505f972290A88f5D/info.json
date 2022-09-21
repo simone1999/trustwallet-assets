@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0xce6c9c70f91c6797873EFC80505f972290A88f5D",
+    "status": "active",
+    "id": "0xce6c9c70f91c6797873EFC80505f972290A88f5D"
+}
