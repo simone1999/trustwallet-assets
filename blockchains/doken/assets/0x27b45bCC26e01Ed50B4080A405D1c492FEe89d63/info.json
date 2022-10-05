@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped DoKEN",
+    "symbol": "WDKN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.doken.dev/token/0x27b45bCC26e01Ed50B4080A405D1c492FEe89d63",
+    "status": "active",
+    "id": "0x27b45bCC26e01Ed50B4080A405D1c492FEe89d63"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "LunaGens",
+    "symbol": "LUNG",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.doken.dev/token/0x669E7828dF230eccEc83f3a9a850b5A3F1141Af2",
+    "status": "active",
+    "id": "0x669E7828dF230eccEc83f3a9a850b5A3F1141Af2"
+}

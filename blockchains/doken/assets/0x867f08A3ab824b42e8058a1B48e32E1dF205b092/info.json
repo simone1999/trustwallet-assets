@@ -1,0 +1,11 @@
+{
+    "name": "BNB",
+    "symbol": "BNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.doken.dev/token/0x867f08A3ab824b42e8058a1B48e32E1dF205b092",
+    "status": "active",
+    "id": "0x867f08A3ab824b42e8058a1B48e32E1dF205b092"
+}
