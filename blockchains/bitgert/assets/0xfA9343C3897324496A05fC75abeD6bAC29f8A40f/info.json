@@ -1,0 +1,11 @@
+{
+    "name": "Dai Multichain",
+    "symbol": "DAIm",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+    "status": "active",
+    "id": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f"
+}

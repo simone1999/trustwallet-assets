@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD Multichain",
+    "symbol": "USDTm",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "status": "active",
+    "id": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D"
+}

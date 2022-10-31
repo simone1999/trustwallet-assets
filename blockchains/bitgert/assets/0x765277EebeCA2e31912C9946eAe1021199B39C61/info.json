@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin Multichain",
+    "symbol": "USDCm",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x765277EebeCA2e31912C9946eAe1021199B39C61",
+    "status": "active",
+    "id": "0x765277EebeCA2e31912C9946eAe1021199B39C61"
+}

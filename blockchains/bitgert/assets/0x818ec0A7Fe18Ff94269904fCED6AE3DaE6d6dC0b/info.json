@@ -1,0 +1,11 @@
+{
+    "name": "BUSD Multichain",
+    "symbol": "BUSDm",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+    "status": "active",
+    "id": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
+}
