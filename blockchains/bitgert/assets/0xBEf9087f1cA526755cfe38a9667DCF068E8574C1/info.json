@@ -1,0 +1,11 @@
+{
+    "name": "Strawberry Token",
+    "symbol": "STRAWBERRY",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0xBEf9087f1cA526755cfe38a9667DCF068E8574C1",
+    "status": "active",
+    "id": "0xBEf9087f1cA526755cfe38a9667DCF068E8574C1"
+}
