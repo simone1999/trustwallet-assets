@@ -1,0 +1,11 @@
+{
+    "name": "BitcoinX",
+    "symbol": "BTCx",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "",
+    "explorer": "https://xdcscan.io/address/0xb6e57fbb2d44092f75d9da2769ffc788ce931320",
+    "status": "active",
+    "id": "0xb6e57fbb2d44092f75d9da2769ffc788ce931320"
+}
