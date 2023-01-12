@@ -1,0 +1,11 @@
+{
+    "name": "EAGLE EYE TOKEN",
+    "symbol": "EET",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "-",
+    "website": "",
+    "explorer": "https://brisescan.com/token/0x0e11DCE06eF2FeD6f78CEF5144F970E1184b4298",
+    "status": "active",
+    "id": "0x0B00C890c9C543d963a36Ce1520DeBA330C6aBb5"
+}

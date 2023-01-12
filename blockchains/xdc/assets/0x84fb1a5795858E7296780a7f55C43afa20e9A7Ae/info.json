@@ -1,0 +1,11 @@
+{
+    "name": "GEM",
+    "symbol": "GEM",
+    "type": "ERC20",
+    "decimals": 15,
+    "description": "-",
+    "website": "",
+    "explorer": "https://xdcscan.io/address/xdc84fb1a5795858E7296780a7f55C43afa20e9A7Ae",
+    "status": "active",
+    "id": "0x84fb1a5795858E7296780a7f55C43afa20e9A7Ae"
+}
