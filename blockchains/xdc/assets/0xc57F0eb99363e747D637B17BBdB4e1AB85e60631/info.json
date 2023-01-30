@@ -1,11 +1,7 @@
 {
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "-",
-    "website": "",
-    "explorer": "https://xdcscan.io/address/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631",
-    "status": "active",
-    "id": "0xc57F0eb99363e747D637B17BBdB4e1AB85e60631"
+  "name": "Tether USD",
+  "explorer": "https://bscscan.com/address/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631",
+  "symbol": "USDT",
+  "decimals": 18,
+  "id": "0xc57F0eb99363e747D637B17BBdB4e1AB85e60631"
 }
