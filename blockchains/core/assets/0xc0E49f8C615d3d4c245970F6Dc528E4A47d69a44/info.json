@@ -1,0 +1,11 @@
+{
+    "name": "IceCream",
+    "symbol": "ICE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://xdcscan.io/address/xdc54051D9DbE99687867090d95fe15C3D3E35512Ba",
+    "status": "active",
+    "id": "0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44"
+}
