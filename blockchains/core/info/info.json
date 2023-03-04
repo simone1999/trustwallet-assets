@@ -1,0 +1,16 @@
+{
+    "name": "CORE DAO",
+    "website": "https://coredao.org/",
+    "description": "CORE DAO’s mission is to build the strongest and most inclusive community in Web 3. All are welcome.",
+    "explorer": "https://scan.coredao.org",
+    "symbol": "CORE",
+    "type": "coin",
+    "decimals": 18,
+    "status": "abandoned",
+    "links": [
+        {
+            "name": "dex",
+            "url": "https://icecreamswap.com"
+        }
+    ]
+}
