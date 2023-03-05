@@ -1,0 +1,11 @@
+{
+    "name": "HotDoge",
+    "symbol": "HOTDOGE",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.dogechain.dog/token/0x05888e66703c1e79aD5803433CF25a05f18e76C6",
+    "status": "active",
+    "id": "0x05888e66703c1e79aD5803433CF25a05f18e76C6"
+}
