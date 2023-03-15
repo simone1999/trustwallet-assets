@@ -1,0 +1,11 @@
+{
+    "name": "3D City",
+    "symbol": "$3DC",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "",
+    "explorer": "https://scan.coredao.org/address/0x979A34f98b9a1bF2B38fD18f5c038423e4902db9",
+    "status": "active",
+    "id": "0x979A34f98b9a1bF2B38fD18f5c038423e4902db9"
+}
