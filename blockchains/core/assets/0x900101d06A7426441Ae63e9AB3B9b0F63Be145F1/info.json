@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "-",
+    "website": "",
+    "explorer": "https://xdcscan.io/address/0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+    "status": "active",
+    "id": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1"
+}
