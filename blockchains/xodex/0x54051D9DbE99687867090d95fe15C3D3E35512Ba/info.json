@@ -1,0 +1,11 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.doken.dev/token/0x54051D9DbE99687867090d95fe15C3D3E35512Ba",
+    "status": "active",
+    "id": "0x54051D9DbE99687867090d95fe15C3D3E35512Ba"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ether",
+    "symbol": "ETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://explorer.doken.dev/token/0x12AA82525DEfF84777fa78578A68ceB854A85f43",
+    "status": "active",
+    "id": "0x12AA82525DEfF84777fa78578A68ceB854A85f43"
+}
