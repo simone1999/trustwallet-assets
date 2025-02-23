@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Quai",
+    "symbol": "WQUAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://quaiscan.io/address/0x006C3e2AaAE5DB1bCd11A1a097cE572312EADdBB",
+    "status": "active",
+    "id": "0x006C3e2AaAE5DB1bCd11A1a097cE572312EADdBB"
+}
