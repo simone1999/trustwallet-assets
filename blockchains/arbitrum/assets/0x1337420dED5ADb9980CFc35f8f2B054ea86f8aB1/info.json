@@ -1,0 +1,9 @@
+{
+    "name": "Subsquid",
+    "type": "ARBITRUM",
+    "symbol": "SQD",
+    "decimals": 18,
+    "explorer": "https://arbiscan.io/token/0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+    "status": "active",
+    "id": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1"
+}
